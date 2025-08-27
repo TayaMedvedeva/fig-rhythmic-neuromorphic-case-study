@@ -1,0 +1,8 @@
+julia
+DifferentialEquations
+Plots
+LaTeXStrings
+CSV
+DataFrames
+Statistics
+LinearAlgebra

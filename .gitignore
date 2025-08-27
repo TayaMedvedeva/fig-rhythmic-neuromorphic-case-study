@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+.ipynb_checkpoints/
+coverage/
+dist/
+build/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+*.slxc
+*.mdl.r201*
+*.autosave
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs
+**/outputs/
