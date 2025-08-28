@@ -6,7 +6,7 @@ Code and figures for the paper **"Formalizing Neuromorphic Control Systems: A Ge
 - `src/` — Julia modules: `model.jl`, `analysis.jl`, `utils.jl`, top-level `run_simulation.jl`
 - `scripts/` — interactive `run_fig2.ipynb`, `run_fig3_1.ipynb`, `run_fig3_2.ipynb`, `run_fig4.ipynb`
 - `figures/` — generated figures for the paper
-- `Project.toml` / `Manifest.toml` — Julia environment
+- `Project.toml` — Julia environment
 
 ## Quick start
 
